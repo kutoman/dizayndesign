@@ -28,7 +28,10 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "uniqCompNum": 1
+    "uniqCompNum": 2,
+    "cookiesAlert": "",
+    "gdpr": "Ich akzeptiere die <a href='DB.html'>Datenschutzbestimmungen</a>",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -507,7 +510,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Dizayn Desgin - Osman Kutlucan."
+          "text": "Copyright (c) 2018 Dizayn Desgin - Osman Kutlucan."
         }
       ]
     }
