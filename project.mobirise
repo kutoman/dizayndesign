@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "dsgvo.html",
+    "currentPage": "index.html",
     "versionFirst": "3.6.2",
     "versionPublish": "4.8.4",
     "name": "Dizayn Design",
@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "uniqCompNum": 7,
+    "uniqCompNum": 2,
     "cookiesAlert": "",
     "gdpr": "Ich akzeptiere die <a href='dsgvo.html' target=\"_blank\">Datenschutzbestimmungen</a>",
     "siteUrl": "undefined"
@@ -462,7 +462,7 @@
           "title": "Kontaktanfrage",
           "subtitle": "Haben Sie Interesse? Beschreiben Sie kurz Ihr Anliegen.",
           "form": {
-            "action": "dizayn.design@aim.com",
+            "action": "mail@dizayndesign.de",
             "alerts": {
               "success": "Anfrage verschickt! Ich werde mich frühstmöglich bei Ihnen melden!"
             },
