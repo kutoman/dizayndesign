@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "uniqCompNum": 2,
+    "uniqCompNum": 4,
     "cookiesAlert": "",
     "gdpr": "Ich akzeptiere die <a href='dsgvo.html' target=\"_blank\">Datenschutzbestimmungen</a>",
     "siteUrl": "undefined"
@@ -491,6 +491,24 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Anfrage senden</a>"
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"impressum.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Impressum</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3",
+          "_styles": {
+            ".btn": {
+              "font-size": "10px"
+            }
+          }
+        },
+        {
           "_name": "footer1",
           "_styles": {
             "P": {
@@ -518,7 +536,7 @@
       "settings": {
         "meta_descr": "Datenschutzerklärung",
         "title": "DSGVO",
-        "order": 1
+        "order": 2
       },
       "components": [
         {

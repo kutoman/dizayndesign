@@ -519,6 +519,9 @@ h6,
   font-family: 'Open Sans', sans-serif;
   text-align: center;
 }
+#buttons1-3 .btn {
+  font-size: 10px;
+}
 #footer1-2 P {
   color: #ffffff;
 }
