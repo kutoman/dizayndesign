@@ -57,6 +57,12 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
 }
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
+}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -95,7 +101,7 @@ h6,
   background-color: #b8312f !important;
 }
 .bg-danger {
-  background-color: #7c706b !important;
+  background-color: #a38f84 !important;
 }
 .btn-primary {
   background-color: #b0c700;
@@ -198,8 +204,8 @@ h6,
   border-color: #7b211f !important;
 }
 .btn-danger {
-  background-color: #7c706b;
-  border-color: #7c706b;
+  background-color: #a38f84;
+  border-color: #a38f84;
   color: #ffffff;
 }
 .btn-danger:hover,
@@ -208,14 +214,14 @@ h6,
 .btn-danger:active,
 .btn-danger.active {
   color: #ffffff;
-  background-color: #534b48;
-  border-color: #534b48;
+  background-color: #7d695d;
+  border-color: #7d695d;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #534b48 !important;
-  border-color: #534b48 !important;
+  background-color: #7d695d !important;
+  border-color: #7d695d !important;
 }
 .btn-primary-outline {
   background: none;
@@ -319,8 +325,8 @@ h6,
 }
 .btn-danger-outline {
   background: none;
-  border-color: #453f3c;
-  color: #453f3c;
+  border-color: #6e5c53;
+  color: #6e5c53;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
@@ -328,14 +334,14 @@ h6,
 .btn-danger-outline:active,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #7c706b;
-  border-color: #7c706b;
+  background-color: #a38f84;
+  border-color: #a38f84;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #7c706b !important;
-  border-color: #7c706b !important;
+  background-color: #a38f84 !important;
+  border-color: #a38f84 !important;
 }
 .text-primary {
   color: #b0c700 !important;
@@ -350,7 +356,7 @@ h6,
   color: #b8312f !important;
 }
 .text-danger {
-  color: #7c706b !important;
+  color: #a38f84 !important;
 }
 .alert-success {
   background-color: #90a878;
@@ -362,7 +368,7 @@ h6,
   background-color: #b8312f;
 }
 .alert-danger {
-  background-color: #7c706b;
+  background-color: #a38f84;
 }
 .btn-social {
   border-color: #b0c700;
@@ -410,7 +416,7 @@ h6,
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #b9b1ae;
+  color: #dad1cd;
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {

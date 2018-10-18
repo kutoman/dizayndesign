@@ -13,11 +13,11 @@
         "successColor": "#90a878",
         "infoColor": "#e18f16",
         "warningColor": "#b8312f",
-        "dangerColor": "#7c706b",
+        "dangerColor": "#a38f84",
         "titleFont": "Montserrat",
         "subtitleFont": "Lato",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
@@ -29,7 +29,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "uniqCompNum": 4,
+    "uniqCompNum": 2,
     "cookiesAlert": "",
     "gdpr": "Ich akzeptiere die <a href='dsgvo.html' target=\"_blank\">Datenschutzbestimmungen</a>",
     "siteUrl": "undefined"
@@ -493,9 +493,9 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#7c706b"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"impressum.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Impressum</a> ",
           "_tags": [
